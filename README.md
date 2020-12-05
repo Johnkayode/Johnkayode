@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-# Welcome to where I stack up magic ✨
+Welcome to where I stack up magic ✨
 
 
-# Check out my blog, Nerds' Corner
+Check out my blog, Nerds' Corner
 https://nerdthejohn.hashnode.dev
-Where I give tutorials on apps I've built
+, i make tutorials on apps I've built
 
 <!--
 **Johnkayode/Johnkayode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
