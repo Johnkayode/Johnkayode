@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://i.ibb.co/k8d28hz/Hi-my-name-is-JOhn.jpg)
 
 <!--
 **Johnkayode/Johnkayode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
