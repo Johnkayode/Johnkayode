@@ -19,4 +19,4 @@ I love building solutions with code
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnkayode)](https://github.com/anuraghazra/github-readme-stats) \
-![](https://komarev.com/ghpvc/?username=Johnkayode) 
+
