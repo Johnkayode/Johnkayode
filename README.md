@@ -11,7 +11,7 @@ I love building solutions with code
 -->
 
 
-- 🔭 I’m currently working on Python/Django, Javascript and Wordpress.
+- 🔭 I’m currently working on Python/Django, Javascript/Vue and Wordpress.
 - 🌱 I’m interested in Backend Engineering, Cloud and DevOps
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: newtonjohn043@gmail.com
