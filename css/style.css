@@ -106,14 +106,20 @@
   
   .profile--card p {
     margin-top: 24px;
-    font-size: 25px;
+    font-size: 20px;
     padding: 0 16px;
     pointer-events: none;
   }
 
-  .profile--card.summary p{
-    font-size: 30px !important;
+  @media (min-width: 481px) {
+    .profile--card p {
+        font-size: 25px;
+    }
+    .profile--card.summary p{
+        font-size: 30px !important;
+      }
   }
+ 
   
   /* .profile--buttons {
     flex: 0 0 100px;
@@ -166,4 +172,6 @@
 
   .links p a{
     color: #222222;
+    cursor: pointer;
+    pointer-events: all;
   }
