@@ -170,6 +170,8 @@
     background-color: #fcf4dd;
   }
 
+  .projects p a,
+  .summary p a,
   .links p a{
     color: #222222;
     cursor: pointer;
